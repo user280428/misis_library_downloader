@@ -1,3 +1,6 @@
 /.idea
 /.venv
 /publications
+/dist
+/build
+main.spec
