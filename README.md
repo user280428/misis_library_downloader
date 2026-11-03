@@ -1,6 +1,6 @@
 # Что делает программа
 
-Программа *misis_library_downloader* скачивает публикацию с сайта [**Электронной библиотеки мисис**](https://lib.msk.misis.ru/elib/m_main.php) в формате PDF по ссылке
+Программа ***misis_library_downloader*** скачивает публикацию с сайта [**Электронной библиотеки мисис**](https://lib.msk.misis.ru/elib/m_main.php) в формате PDF по ссылке
 
 ___
 <br>
